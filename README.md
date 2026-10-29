@@ -1,9 +1,9 @@
 
 ## EX NO:1 Cloud-account-set-up-and-services
 
-### Name : KAVIBHARATHI K
+### Name : Sairam R
 
-### Reg no: 212224220045
+### Reg no: 212225040358
 
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
@@ -75,6 +75,11 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 • Explore all the available services in AWS platform.
 
 ## Output:
+
+<img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/4df53636-a509-4ce5-9aaa-973d3f3a2afd" />
+
+
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/bc2f632f-bd9e-42be-a18f-4514a8be4a32" />
 
 
 
